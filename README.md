@@ -6,5 +6,7 @@ Developed an automated system to predict diamond prices based on shape, size, co
 This is a Supervised Machine Learning Regression Model.
 
 Conducted basic data exploration, handled outliers and missing values, and performed univariate and bivariate analysis.
+
 Applied statistical tests such as Pearson's correlation and ANOVA.
+
 Achieved 56.14% accuracy with Multiple Linear Regression and 75.56% accuracy with Decision Tree.
